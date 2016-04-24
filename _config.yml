@@ -1,0 +1,28 @@
+name: Traffic Tsunami
+favicon: null
+layout_spectrum: 0.1356569374911487
+typography_spectrum: 0.8033216749317944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7925069164484739
+  lightness: 0.9189723208546638
+  saturation: 0.0771219739690423
+  rhythmicContrast: 0.6889279389288276
+purpose: []
