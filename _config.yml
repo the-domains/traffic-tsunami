@@ -2,6 +2,7 @@ name: Traffic Tsunami
 favicon: null
 layout_spectrum: 0.1356569374911487
 typography_spectrum: 0.8033216749317944
+title: Traffic Tsunami
 cta:
   domain: null
   bucket: null
