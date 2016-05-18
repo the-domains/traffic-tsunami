@@ -1,4 +1,4 @@
-name: Traffic Tsunami
+name: Taylormade
 favicon: null
 layout_spectrum: 0.1356569374911487
 typography_spectrum: 0.8033216749317944
@@ -23,7 +23,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0.7925069164484739
-  lightness: 0.9189723208546638
+  lightness: 0.625
   saturation: 0.0771219739690423
   rhythmicContrast: 0.6889279389288276
 purpose: []
